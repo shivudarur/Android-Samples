@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleServerConnectRest</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- Acticities -->
+    <!-- Login -->
+    <string name="login_header">Enter your credentials</string>
+    <string name="user_name">UserName</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+</resources>
